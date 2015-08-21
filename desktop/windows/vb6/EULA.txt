@@ -1,0 +1,32 @@
+Software Pro Version 1+ License
+=================================
+
+Copyright (C) 2005, 2006
+
+Software license agreement
+YOU, THE END USER, SHALL USE THIS SOFTWARE ("Software Pro") ACCORDING TO THE TERMS OF THIS AGREEMENT. BY LOADING THE SOFTWARE INTO ANY COMPUTER, YOU ARE AGREEING TO BE BOUND BY THESE TERMS. IF YOU DO NOT ACCEPT THE TERMS OF THIS AGREEMENT, YOU MAY NOT LOAD THIS SOFTWARE INTO ANY COMPUTER.
+
+Grant of license:
+The Software is licensed for use by you. You are not permitted to rent or lease the Software or to transfer your rights under this license to a third
+party.
+
+Acceptance:
+You shall be deemed to have accepted the terms of this Agreement by installing this software.
+
+Duration:
+This license is effective until terminated. The license will terminate if you fail to comply with the terms of the Agreement. Upon termination, you agree to destroy all copies of the Software and its documentation.  Termination will also occur if Software PRO suffers any type of financial hardship which disables their ability to provide the back-end services required by the software.
+
+Ownership of Software:
+It is an express condition of this Agreement that the title and ownership of the Software shall be retained by the Software PRO.
+
+Copying:
+The Software and its documentation are copyrighted. You may not make any copies nor allow others to make copies of the software except such copies
+as are necessary for licensed use. For this purpose up to four copies may be made. Any such copies are subject to the conditions of this agreement. You may not modify, adapt, merge, translate, reverse engineer, decompile, disassemble or create derivative works based on the whole or part of the Software or its associated documentation.
+
+You may be held legally responsible for any copyright infringement, unauthorized transfer, reproduction or use of the Software or its documentation.
+
+DISCLAIMER OF WARRANTIES:
+YOU AGREE THAT Software PRO HAS MADE NO EXPRESS WARRANTIES TO YOU REGARDING THE SOFTWARE AND THAT THE SOFTWARE IS BEING PROVIDED TO YOU "AS IS" WITHOUT WARRANTY OF ANY KIND. Software PRO DISCLAIMS ALL WARRANTIES WITH REGARD TO THE SOFTWARE, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, MERCHANTABLE QUALITY, OR NONINFRINGEMENT OF THIRD-PARTY RIGHTS. Some states or jurisdictions do not allow the exclusion of implied warranties, so the above limitations may not apply to you.
+
+LIMIT OF LIABILITY:
+IN NO EVENT WILL Software PRO BE LIABLE TO YOU FOR ANY LOSS OF USE, INTERRUPTION OF BUSINESS, OR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY KIND (INCLUDING LOST PROFITS) REGARDLESS OF THE FORM OF ACTION WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT PRODUCT LIABILITY OR OTHERWISE, EVEN IF Software PRO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. Some states or jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
